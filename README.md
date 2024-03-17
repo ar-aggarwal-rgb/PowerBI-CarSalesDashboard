@@ -4,10 +4,11 @@
 This Power BI project offers a comprehensive analysis of year-to-date (YTD) sales data for a car company. The dashboard presents key metrics such as YTD total sales, YTD average price, and YTD cars sold. Additionally, it includes graphical representations of various sales trends, including weekly sales trend, total sales by body style, sales by colour, monthly growth, and company-wise sales trend. The project aims to provide stakeholders with actionable insights to optimize sales strategies and performance.
 
 ## Dashboard Preview
-![Screenshot 2024-03-17 150423](https://github.com/ar-aggarwal-rgb/PowerBI-CarSalesDashboard/assets/66841676/d3365d17-d1d0-4971-9dbe-e52785bd85c8)
 Overview
 ![Screenshot 2024-03-17 150403](https://github.com/ar-aggarwal-rgb/PowerBI-CarSalesDashboard/assets/66841676/b5124d0f-bcac-40b8-a026-c3fa8604970c)
+
 Details
+![Screenshot 2024-03-17 150423](https://github.com/ar-aggarwal-rgb/PowerBI-CarSalesDashboard/assets/66841676/d3365d17-d1d0-4971-9dbe-e52785bd85c8)
 
 ## Key Features
 - **YTD Sales Overview**: Summary of YTD total sales, average price, and cars sold, providing a quick snapshot of performance.
